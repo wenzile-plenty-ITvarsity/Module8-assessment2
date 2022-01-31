@@ -1,0 +1,115 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: palevioletred;
+}
+
+#grid1-1{
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+#grid1-2{
+    position: absolute;
+    left: 195px;
+    top: 5px;
+}
+
+#grid1-3{
+    position: absolute;
+    left: 385px;
+    top: 5px;
+}
+
+#grid2-1{
+    position: absolute;
+    left:5px;
+    top: 195px;
+}
+
+#grid2-2{
+    position: absolute;
+    left: 195px;
+    top: 195px;
+}
+
+#grid2-3{
+    position: absolute;
+    left: 385px;
+    top: 195px;
+}
+
+#grid3-1{
+    position: absolute;
+    left: 5px;
+    bottom: 35px;
+}
+
+#grid3-2{
+    position: absolute;
+    left:195px;
+    bottom: 35px;
+}
+
+#grid3-3{
+    position: absolute;
+    left: 385px;
+    bottom: 35px;
+}
+
+#img1-1-draggable{
+    position: absolute;
+    left: 1100px;
+    top: 0px;
+}
+
+#img1-2-draggable{
+    position: absolute;
+    left: 800px;
+    bottom: 50px;
+}
+
+#img1-3-draggable{
+    position: absolute;
+    left: 600px;
+    top: 80px;
+}
+
+#img2-1-draggable{
+    position: absolute;
+    left: 1000px;
+    top: 150px;
+}
+
+#img2-2-draggable{
+    position: absolute;
+    left: 690px;
+    bottom: 100px;
+}
+
+#img2-3-draggable{
+    position: absolute;
+    left: 1100px;
+    top: 60px;
+}
+
+#img3-1-draggable{
+    position: absolute;
+    left: 1000px;
+    top: 0px;
+}
+
+#img3-2-draggable{
+    position: absolute;
+    left: 950px;
+     top: 100px;
+}
+
+#img3-3-draggable{
+    position: absolute;
+    left: 900px;
+    bottom: 40px;
+}
